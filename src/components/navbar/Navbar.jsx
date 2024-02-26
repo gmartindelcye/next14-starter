@@ -6,7 +6,7 @@ const Navbar = () => {
     return (
         <div className={styles.container}>
             <Link href="/" className={styles.logo}>
-                Logo
+                Luz Capital
             </Link>
             <div>
                 <Links />
